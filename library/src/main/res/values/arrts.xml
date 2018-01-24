@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <declare-styleable name="WeekView">
+    <!--周的表示形式（x.x.x.x.x.x.x）-->
+    <attr format="string" name="week_str"/>
+    <!--周的文字颜色-->
+    <attr format="color" name="week_color"/>
+    <!--周的文字大小-->
+    <attr format="integer" name="week_size"/>
+  </declare-styleable>
+</resources>
